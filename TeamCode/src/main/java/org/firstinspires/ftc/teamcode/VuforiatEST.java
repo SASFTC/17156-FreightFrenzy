@@ -104,8 +104,10 @@ public class VuforiatEST extends OpMode {
      * Once you've obtained a license key, copy the string from the Vuforia web site
      * and paste it in to your code on the next line, between the double quotes.
      */
+
+    // TODO REMOVE THE KEY
     private static final String VUFORIA_KEY =
-            "AXrKIkP/////AAABmdJMxwRtD0ZqnOywadcByMpl9+3ROF0Lj9ykhYLVRTy/zZJxr2dlOHiphZ45QXZzUfEanvjJICRt/NwqJXbqG6nxnqryAvWoi4tPJgKje7IydkPxX4uSmiE6aOdeTc0b6lPjpPrmpLjuD9JN7DOtGpdvZmzYT34y6ftspxPFeQ3pBrSTJTYwqHCa1nHDNk2dDOKH8AjNSfjftSM1j2iTjyQ8MEm7SlPsvfINfZt2j2UfG41aBxDUxQQE/te9gS/i7fwHRJkeHkrbMGXN+qmXNtMkkqziOEsPJZvT9pPGqzgi8XjqNlG3XduUqnmJRIKJyDZmlGVfQttoKycay813qvt5miKDhCUB5Z8QLAGMOKoo";
+            "Heyhey you can't see me";
     // Since ImageTarget trackables use mm to specifiy their dimensions, we must use mm for all the physical dimension.
     // We will define some constants and conversions here
     private static final float mmPerInch        = 25.4f;
