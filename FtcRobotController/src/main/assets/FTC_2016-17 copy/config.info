@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <ImageTarget name="Wheels" targetId="b357fadbb8444ca4ac727fe284654c73" version="2.6" toolVersion="2.7.4">
+            <UnpaddedImage size="320 232" />
+        </ImageTarget>
+        <ImageTarget name="Tools" targetId="ac78346531ab40fbb800aa0abc94dcd0" version="2.6" toolVersion="2.7.4">
+            <UnpaddedImage size="320 232" />
+        </ImageTarget>
+        <ImageTarget name="Legos" targetId="d2631fe4da244964a0244b2879871bd6" version="2.6" toolVersion="2.7.4">
+            <UnpaddedImage size="320 232" />
+        </ImageTarget>
+        <ImageTarget name="Gears" targetId="621c1680e67543059da04e51eea1b87b" version="2.6" toolVersion="2.7.4">
+            <UnpaddedImage size="320 232" />
+        </ImageTarget>
+    </TargetSet>
+</QCARInfo>

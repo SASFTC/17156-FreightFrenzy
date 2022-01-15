@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <ImageTarget name="BlueStorage" targetId="df305d9e50ba43f89a00c11d6d4e4c3c" version="2.6" toolVersion="2.8.0">
+            <UnpaddedImage size="320 235" />
+        </ImageTarget>
+        <ImageTarget name="BlueAllianceWall" targetId="9801dbb1e2fe476d873d917a516cc7d8" version="2.6" toolVersion="2.8.0">
+            <UnpaddedImage size="320 213" />
+        </ImageTarget>
+        <ImageTarget name="RedStorage" targetId="6159ecb479334d8b87f8b5b4f3e3b19f" version="2.6" toolVersion="2.8.0">
+            <UnpaddedImage size="320 208" />
+        </ImageTarget>
+        <ImageTarget name="RedAllianceWall" targetId="06e9432738424651b7f576cb68f5b23f" version="2.6" toolVersion="2.8.0">
+            <UnpaddedImage size="320 199" />
+        </ImageTarget>
+    </TargetSet>
+</QCARInfo>
