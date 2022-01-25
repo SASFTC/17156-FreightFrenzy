@@ -105,9 +105,9 @@ public class VuforiatEST extends OpMode {
      * and paste it in to your code on the next line, between the double quotes.
      */
 
-    // TODO REMOVE THE KEY
+    // TODO REMOVE THE KEY WHEN COMMITTING
     private static final String VUFORIA_KEY =
-            "Heyhey you can't see me";
+            "";
     // Since ImageTarget trackables use mm to specifiy their dimensions, we must use mm for all the physical dimension.
     // We will define some constants and conversions here
     private static final float mmPerInch        = 25.4f;
@@ -158,7 +158,7 @@ public class VuforiatEST extends OpMode {
 
         //  Instantiate the Vuforia engine
         vuforia = ClassFactory.getInstance().createVuforia(parameters);
-        targetCube = this.vuforia.loadTrackablesFromAsset("GoodCube2p1");
+        targetCube = this.vuforia.loadTrackablesFromAsset("3Dscan_OT");
 
 
 
@@ -205,7 +205,6 @@ public class VuforiatEST extends OpMode {
         //
         // NOTE !!!!  It's very important that you turn OFF your phone's Auto-Screen-Rotation option.
         // Lock it into Portrait for these numbers to work.
-        //
         // Info:  The coordinate frame for the robot looks the same as the field.
         // The robot's "forward" direction is facing out along X axis, with the LEFT side facing out along the Y axis.
         // Z is UP on the robot.  This equates to a bearing angle of Zero degrees.
